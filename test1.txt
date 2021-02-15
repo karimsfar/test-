@@ -1,3 +1,4 @@
 Pré condition :
+la connection est etablie 
 Etape a exécuter 
 Post condition 
